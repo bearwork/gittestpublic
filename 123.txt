@@ -1,0 +1,10 @@
+C:\_Work\SkillFactory>git --version 
+$ git config --global user.name "bearwork"
+$ git config --global user.emeil bearworknet@gmail.com
+git config --list
+git init
+git add.
+git commit
+git commit -m "first comit"
+git status
+git push
